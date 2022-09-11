@@ -32,7 +32,7 @@ you did not understand. Let us know, and we will get back to you as soon as we c
 
 ## Instructions
 
-- [ ] Fork this repository
+- [x] Fork this repository
 - [ ] For each major feature create a **branch**
 - [ ] After completing each task
     - [ ] Mark the task as done in the requirement section of the **README.md** file by changing the markdown
